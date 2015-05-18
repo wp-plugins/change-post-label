@@ -43,9 +43,9 @@ Use https://github.com/fccoelho7/Change-Post-Label
 
 == Screenshots ==
 
-1. `/tags/1.5/screenshot-1.png`
-2. `/tags/1.5/screenshot-2.png`
-3. `/tags/1.5/screenshot-3.png`
+1. Image 1
+2. Image 2
+3. Image 3
 
 == Frequently Asked Questions ==
 
